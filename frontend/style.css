@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: aqua;
+}
+ul{
+    display: inline;
+    gap: 10px;
+
+}
+#container {
+    width: 5vw;
+    height:10vw;
+}
