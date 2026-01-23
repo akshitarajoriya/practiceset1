@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-
     flex-wrap: wrap;
 }
 body{
@@ -50,7 +49,7 @@ main>div{
 footer{
     display: flex;
     align-items: center;
-    position: fixed;
+    position: static;
     bottom: 0;
     background-color: rgb(23, 16, 16);
     width: 100vw;
